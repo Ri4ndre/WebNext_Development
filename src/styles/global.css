@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  box-sizing: border-box;
+}
+
+
+/* COLOURS */
+
+/* FONTS */
+
+.font-ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+  }
+
+.font-cabin {
+    font-family: 'Cabin Variable', sans-serif;
+  }
+
+.font-poppins {
+    font-family: 'Poppins', sans-serif;
+  }
+
+.h1-gradient{
+  font: 3.75rem bold 'Poppins', sans-serif;
+  background-image: 
+  -webkit-linear-gradient(-45deg, #1E93FF 0%, #FFFFFF 72%); 
+  background-clip: text; -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent;             
+}
+
+/*STYLES*/
+
+.pill{
+  display: inline-block;
+  background-color: #1e92ff34;
+  border-radius: 20px;
+  padding: 1px 8px;
+  font: 1rem normal 'Poppins', sans-serif;
+  color: #1E93FF;
+  margin-right: 5px;
+  margin-block: 5px;
+}

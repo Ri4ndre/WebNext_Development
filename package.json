@@ -1,0 +1,29 @@
+{
+  "name": "",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/partytown": "^2.0.1",
+    "@astrojs/react": "^3.0.3",
+    "@astrojs/tailwind": "^5.0.2",
+    "@fontsource-variable/cabin": "^5.0.16",
+    "@fontsource/poppins": "^5.0.8",
+    "@fontsource/ubuntu": "^5.0.8",
+    "@nextui-org/chip": "^2.0.21",
+    "@nextui-org/react": "^2.1.13",
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
+    "astro": "^3.3.3",
+    "framer-motion": "^10.16.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tailwindcss": "^3.3.3"
+  }
+}
